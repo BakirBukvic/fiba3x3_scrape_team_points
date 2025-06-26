@@ -1,5 +1,4 @@
-*.json
-*.csv
+# Data files
 *.json
 *.csv
 
@@ -15,3 +14,14 @@ venv.bak/
 # Python virtual environments (common names)
 *venv/
 *env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# IDE
+.vscode/
+.idea/
