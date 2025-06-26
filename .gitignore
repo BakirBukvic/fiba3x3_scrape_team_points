@@ -1,2 +1,17 @@
 *.json
 *.csv
+*.json
+*.csv
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtual environments (common names)
+*venv/
+*env/
